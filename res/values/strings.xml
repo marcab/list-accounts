@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListAccounts</string>
+    <string name="get_accounts">If I want my app to take advantage of a user\'s existing accounts, I don\'t have to request a username and password.  In fact, with the right permissions I can request accounts directly!</string>
+    <string name="permissions">Permissions</string>
+    <string name="getting_accounts">Getting accounts</string>
+    <string name="code">Code</string>
+    <string name="run_it">Run it!</string>
+    <string name="no_accounts">No accounts</string>
+
+</resources>
